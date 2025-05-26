@@ -124,10 +124,4 @@ All required packages are listed in `requirements.txt`. Key dependencies include
 - Advanced user segmentation
 - Multi-channel attribution modeling
 
-## Contributing
 
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
